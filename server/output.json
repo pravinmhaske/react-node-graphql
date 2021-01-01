@@ -1,0 +1,442 @@
+[ 
+    {
+        "name" : "T Shirt & Polo",
+        "specifications" : [ 
+            {
+                "name" : "Size",
+                "unit" : "",
+                "type" : "checkbox",
+                "value" : [ 
+                    {
+                        "isselected" : false,
+                        "val" : "4XL"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "3XL"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "2XS"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "XS"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "2XL"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "XL"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "L"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "S"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "M"
+                    }
+                ]
+            }, 
+            {
+                "name" : "BRAND",
+                "unit" : "",
+                "type" : "radio",
+                "value" : [ 
+                    {
+                        "isselected" : false,
+                        "val" : "Levi's"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Puma"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Metronaut"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Lee"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Wrangler"
+                    }
+                ]
+            }, 
+            {
+                "name" : "SLEEVE",
+                "unit" : "",
+                "type" : "radio",
+                "value" : [ 
+                    {
+                        "isselected" : false,
+                        "val" : "3/4 Sleeve"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Cap Sleeve"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Full Sleeve"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Half Sleeve"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Layered Sleeve"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Roll-up Sleeve"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Short Sleeve"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Sleeveless"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Puff Sleeve"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "TYPE"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Boat Neck"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Henley"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Hooded"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Mandarin Collar"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Mock Neck"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Peter Pan Collar"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Polo Neck"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Round Neck"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Scoop Neck"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Square Neck"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Turtle Neck"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "V-neck"
+                    }
+                ]
+            }, 
+            {
+                "name" : "PATTERN",
+                "unit" : "",
+                "type" : "radio",
+                "value" : [ 
+                    {
+                        "isselected" : false,
+                        "val" : "Abstract"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Aiyaary Collection"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Animal Print"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Applique"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Argyle"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Aztec"
+                    }
+                ]
+            }, 
+            {
+                "name" : "DISCOUNT",
+                "unit" : "",
+                "type" : "checkbox",
+                "value" : [ 
+                    {
+                        "isselected" : false,
+                        "val" : "Less than 10%"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "10% or More"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "20% or More"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "30% or More"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "40% or More"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "50% or More"
+                    }
+                ]
+            }, 
+            {
+                "name" : "CUSTOMER RATINGS",
+                "unit" : "",
+                "type" : "radio",
+                "value" : [ 
+                    {
+                        "isselected" : false,
+                        "val" : "4★ & above"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "3★ & above"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "2★ & above"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "1★ & above"
+                    }
+                ]
+            }, 
+            {
+                "name" : "FITTING",
+                "unit" : "",
+                "type" : "radio",
+                "value" : [ 
+                    {
+                        "isselected" : false,
+                        "val" : "Loose"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Regular"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Regular fit"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Regular Fit"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Slim"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Classic Fit"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Slim Fit"
+                    }
+                ]
+            },
+            
+            {
+                "name" : "Color",
+                "unit" : "",
+                "type" : "color",
+                "value" : [  
+                    {
+                        "isselected" : false,
+                        "val" : "OCCASION"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Beach Wear"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Casual"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Formal"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Lounge Wear"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Party"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Sports"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Wedding"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Home"
+                    }
+					]}
+,
+
+            {
+                "name" : "Color",
+                "unit" : "",
+                "type" : "color",
+                "value" : [ 
+                    {
+                        "isselected" : false,
+                        "val" : "Red"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Green"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Yellow"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Blue"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Orange"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Purple"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Cyan"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Magenta"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Lime"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Pink"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Teal"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Lavender"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Brown"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Beige"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Maroon"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Mint"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Coral"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Navy"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Grey"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Black"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Gold"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Silver"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Tan"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Khaki"
+                    }, 
+                    {
+                        "isselected" : false,
+                        "val" : "Olive"
+                    }
+                ]
+            }
+        ]
